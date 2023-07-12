@@ -1,0 +1,1 @@
+/Users/wadahiroka/.config/nvim/dein/repos/github.com/nvim-lua/plenary.nvim/tests/plenary/context_manager_spec.lua

@@ -1,0 +1,1 @@
+/Users/wadahiroka/.config/nvim/dein/repos/github.com/preservim/nerdtree/README.markdown

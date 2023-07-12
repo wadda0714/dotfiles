@@ -1,0 +1,1 @@
+/Users/wadahiroka/.config/nvim/dein/repos/github.com/Shougo/vimproc.vim/doc/vimproc.txt

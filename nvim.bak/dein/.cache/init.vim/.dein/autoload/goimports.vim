@@ -1,0 +1,1 @@
+/Users/wadahiroka/.config/nvim/dein/repos/github.com/mattn/vim-goimports/autoload/goimports.vim

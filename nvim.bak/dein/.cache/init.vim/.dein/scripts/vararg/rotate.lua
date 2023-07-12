@@ -1,0 +1,1 @@
+/Users/wadahiroka/.config/nvim/dein/repos/github.com/nvim-lua/plenary.nvim/scripts/vararg/rotate.lua

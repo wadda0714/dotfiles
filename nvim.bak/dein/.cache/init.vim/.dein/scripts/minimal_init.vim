@@ -1,0 +1,1 @@
+/Users/wadahiroka/.config/nvim/dein/repos/github.com/nvim-telescope/telescope.nvim/scripts/minimal_init.vim

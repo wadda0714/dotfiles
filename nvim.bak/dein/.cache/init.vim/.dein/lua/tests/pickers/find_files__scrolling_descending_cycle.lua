@@ -1,0 +1,1 @@
+/Users/wadahiroka/.config/nvim/dein/repos/github.com/nvim-telescope/telescope.nvim/lua/tests/pickers/find_files__scrolling_descending_cycle.lua

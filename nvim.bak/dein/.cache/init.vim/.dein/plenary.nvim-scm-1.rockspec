@@ -1,0 +1,1 @@
+/Users/wadahiroka/.config/nvim/dein/repos/github.com/nvim-lua/plenary.nvim/plenary.nvim-scm-1.rockspec

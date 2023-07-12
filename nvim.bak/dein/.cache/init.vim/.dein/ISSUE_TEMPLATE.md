@@ -1,0 +1,1 @@
+/Users/wadahiroka/.config/nvim/dein/repos/github.com/rust-lang/rust.vim/ISSUE_TEMPLATE.md

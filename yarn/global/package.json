@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "create-next-app": "^13.4.4",
+    "neovim": "^4.10.1"
+  }
+}
