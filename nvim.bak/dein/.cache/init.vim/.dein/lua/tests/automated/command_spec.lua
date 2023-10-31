@@ -1,1 +1,0 @@
-/Users/wadahiroka/.config/nvim/dein/repos/github.com/nvim-telescope/telescope.nvim/lua/tests/automated/command_spec.lua

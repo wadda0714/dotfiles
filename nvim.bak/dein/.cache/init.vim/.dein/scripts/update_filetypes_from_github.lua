@@ -1,1 +1,0 @@
-/Users/wadahiroka/.config/nvim/dein/repos/github.com/nvim-lua/plenary.nvim/scripts/update_filetypes_from_github.lua

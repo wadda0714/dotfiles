@@ -1,1 +1,0 @@
-/Users/wadahiroka/.config/nvim/dein/repos/github.com/nvim-lua/plenary.nvim/tests/plenary/simple_busted_spec.lua

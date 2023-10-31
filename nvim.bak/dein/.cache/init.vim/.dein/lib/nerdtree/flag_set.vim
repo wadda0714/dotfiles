@@ -1,1 +1,0 @@
-/Users/wadahiroka/.config/nvim/dein/repos/github.com/preservim/nerdtree/lib/nerdtree/flag_set.vim
